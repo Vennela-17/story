@@ -1,0 +1,19 @@
+.second{
+    padding:50px;
+    margin:auto;
+    display: flex;
+    justify-content:space-evenly;
+    margin-left:5%;
+    margin-right:5%;
+}
+img{
+    height:150px;
+    width:150px;
+    border:2px solid black;
+    
+}
+html{
+    padding-left:10%;
+    padding-right: 10%;
+    background-color:rgba(202, 24, 202, 0.407);
+}
